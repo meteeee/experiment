@@ -22,7 +22,7 @@ This portfolio showcases a range of projects demonstrating my skills in data sci
 ### Scraping with SpaceX API
 - **Description:** Focuses on utilizing the SpaceX API for data collection, emphasizing the integration of API data into data science workflows for real-world applications.
 
-
+---
 
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Circle-A_red.svg" alt="Copyleft" width="40" height="40"> 🏴 Copyleft Notice 🏴 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Circle-A_red.svg" alt="Copyleft" width="40" height="40">
 
